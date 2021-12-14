@@ -4,10 +4,10 @@
 
 Исходный код проекта лежит в папке source_code.
 
-Для реализации многопоточности в проекте использовались возможности std.
-А именно: 
-thread
-chrono
-mutex
-unique_lock
-condition_variable
+Для реализации многопоточности в проекте использовались возможности std.  
+А именно:  
+thread  
+chrono  
+mutex  
+unique_lock  
+condition_variable  
